@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Erdem%20Tosun&fontSize=60&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20AI%20%7C%20Embedded&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="Erdem Tosun Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Erdem%20Tosun&fontSize=60&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Embedded&descSize=20&descAlign=50&descAlignY=65" width="100%" alt="Erdem Tosun Banner" />
 </div>
 <br/>
 
 ### 👨‍💻 Engineering Profile
 
-I leverage my proficiency in **C#, Python, and C++ (Qt/OpenGL)** to implement Edge AI and sensor fusion. By utilizing Deep Learning, NLP, and Machine Learning algorithms (XGBoost, Random Forest), I transform raw data into industrial-grade software using GRASP principles and unit testing methodologies.
+I leverage my proficiency in **Python, C# and C++** to implement Edge AI and sensor fusion. By utilizing Deep Learning, NLP, and Machine Learning algorithms, I transform raw data into industrial-grade software using GRASP principles and unit testing methodologies.
 
 > *"Designing multimodal architectures and delivering innovative solutions to complex engineering challenges."*
 
 ---
 
-### 🧠 Knowledge Base
+###  Knowledge Base
 
 **Languages** <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>
@@ -40,7 +40,7 @@ I leverage my proficiency in **C#, Python, and C++ (Qt/OpenGL)** to implement Ed
 
 ---
 
-### ⚡ Recent Activity
+###  Recent Activity
 
 <p align="center">
   <a href="https://github.com/erdeemt">
