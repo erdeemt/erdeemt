@@ -1,0 +1,47 @@
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Erdem%20Tosun&fontSize=70&fontColor=ffffff&desc=Computer%20Engineer%20%7C%20AI%20%7C%20Embedded&descSize=20&descAlign=50&descAlignY=55)
+
+### 👨‍💻 Engineering Profile
+
+I leverage my proficiency in **C#, Python, and C++ (Qt/OpenGL)** to implement Edge AI and sensor fusion. By utilizing Deep Learning, NLP, and Machine Learning algorithms (XGBoost, Random Forest), I transform raw data into industrial-grade software using GRASP principles and unit testing methodologies.
+
+> *"Designing multimodal architectures and delivering innovative solutions to complex engineering challenges."*
+
+---
+
+### 🧠 Knowledge Base
+
+**Languages** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+**AI & Machine Learning** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDB515?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Embedded & OS** ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+**Tools** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### ⚡ Recent Activity
+
+<div align="center">
+<a href="https://github.com/erdeemt">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdeemt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=2ea44f&bg_color=0d1117" alt="Erdem's GitHub Stats" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="mailto:erdemtosn@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-erdemtosn@gmail.com-blue?style=for-the-badge&logo=gmail">
+  </a>
+</div>
