@@ -43,9 +43,7 @@ I leverage my proficiency in **Python, C# and C++** to implement Edge AI and sen
 ###  Recent Activity
 
 <p align="center">
-  <a href="https://github.com/erdeemt">
-    <img src="https://github-readme-stats.vercel.app/api?username=erdeemt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Erdem's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erdeemt&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Erdem's GitHub Streak" />
 </p>
 
 <br />
