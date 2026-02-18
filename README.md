@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-### 👨‍💻 Engineering Profile
+###  Engineering Profile
 
 I leverage my proficiency in **Python, C# and C++** to implement Edge AI and sensor fusion. By utilizing Deep Learning, NLP, and Machine Learning algorithms, I transform raw data into industrial-grade software using GRASP principles and unit testing methodologies.
 
