@@ -43,7 +43,7 @@ I leverage my proficiency in **Python, C# and C++** to implement Edge AI and sen
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 
 
 **Tools**
