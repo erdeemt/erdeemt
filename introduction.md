@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Engineering Profile
 
-I leverage my proficiency in **C#, Python, and C++ (Qt/OpenGL)** to implement Edge AI and sensor fusion. By utilizing Deep Learning, NLP, and Machine Learning algorithms (XGBoost, Random Forest), I transform raw data into industrial-grade software using GRASP principles and unit testing methodologies.
+I leverage my proficiency in Python, C#, Java and C++ ** to implement Edge AI and sensor fusion. By utilizing Deep Learning, NLP, and Machine Learning algorithms, I transform raw data into industrial-grade software using GRASP principles and unit testing methodologies.
 
 > *"Designing multimodal architectures and delivering innovative solutions to complex engineering challenges."*
 
